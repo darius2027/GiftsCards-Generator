@@ -3,4 +3,4 @@ This program generate Gift cards for Paypal/Xbox/Ps/Steam/Paysafe/Nitro/Windows1
 
 
 
-How to download: watch this video: 
+How to download: watch this video: https://youtu.be/r4v--jDMxyk
